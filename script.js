@@ -81,8 +81,10 @@ setTimeout(()=>{
     cont.appendChild(newElement);
 },21500);
 setTimeout(()=>{
-    location.reload(); 
-},27000);
+    alert('THANKS FOR YOUR TIME')
+    location.reload();
+
+},28000);
 }
 
 
