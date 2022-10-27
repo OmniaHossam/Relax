@@ -1,3 +1,5 @@
+/*Sound Effect from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=18178">Pixabay</a>*/
+
 var container=document.getElementById("container");
 var cont=document.getElementById("cont");
 var btn=document.getElementById('btn');
@@ -84,8 +86,9 @@ setTimeout(()=>{
     alert('THANKS FOR YOUR TIME')
     location.reload();
 
-},28000);
+},36000);
 }
+
 
 
 
