@@ -82,7 +82,7 @@ setTimeout(()=>{
 },21500);
 setTimeout(()=>{
     location.reload(); 
-},24000);
+},27000);
 }
 
 
